@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Dice of Fate</string>
+
+    <string name="title">Dice of Fate</string>
+    <string name="subtitle">A Roll Playing Game</string>
+    <string name="new_game_button">New Game</string>
+    <string name="continue_button">Continue</string>
+
+    <string name="countdown_header">Days Remaining:</string>
+    <string name="view_dungeon_button">Dungeons</string>
+    <string name="view_shop_button">Shop</string>
+    <string name="rest_button">Rest</string>
+    <string name="back_button">Back</string>
+
+    <string name="dungeon_select_header">Available Dungeons</string>
+    <string name="go_button">Go</string>
+
+    <string name="hp_stat">HP:</string>
+    <string name="item_button">Items</string>
+    <string name="attack_button">Attack</string>
+    <string name="ability_button">Abilities</string>
+
+    <string name="shop_front_header">Shops</string>
+    <string name="armor_button">Armor</string>
+    <string name="weapon_button">Weapons</string>
+    <string name="shop_buy">Buy</string>
+    <string name="shop_details">Details</string>
+    <string name="next_button">Next</string>
+    <string name="prev_button">Prev</string>
+</resources>
